@@ -1,0 +1,97 @@
+============================================================
+Time  2016/10/27 19:18:11 573 
+============================================================
+[2016/10/27 19:18:11 574] waiter     120  waiter loaded!  
+[2016/10/27 19:18:11 611] network    380  redns  def  open.xf-yun.com  
+[2016/10/27 19:18:11 619] waiter     196  last gc at  1477621091  
+[2016/10/27 19:18:11 630] network    173  dns resp  10214  
+[2016/10/27 19:18:11 632] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/27 19:18:11 953] network    380  redns  def  open.xf-yun.com  
+[2016/10/27 19:18:11 962] waiter     196  last gc at  1477621091  
+[2016/10/27 19:18:11 977] network    173  dns resp  10214  
+[2016/10/27 19:18:11 982] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/27 19:18:12 122] waiter     183  start upload timer  
+[2016/10/27 19:18:12 124] waiter     184  false  
+[2016/10/27 19:18:12 131] waiter     196  last gc at  1477621091  
+[2016/10/27 19:18:12 305] network    380  redns  def  open.xf-yun.com  
+[2016/10/27 19:18:12 311] waiter     196  last gc at  1477621091  
+[2016/10/27 19:18:12 322] network    173  dns resp  10214  
+[2016/10/27 19:18:12 324] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/27 19:18:12 713] network    380  redns  def  open.xf-yun.com  
+[2016/10/27 19:18:12 723] waiter     196  last gc at  1477621091  
+[2016/10/27 19:18:12 728] network    173  dns resp  10214  
+[2016/10/27 19:18:12 730] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/27 19:18:13 100] network    380  redns  def  open.xf-yun.com  
+[2016/10/27 19:18:13 110] waiter     196  last gc at  1477621091  
+[2016/10/27 19:18:13 116] network    173  dns resp  10214  
+[2016/10/27 19:18:13 118] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/27 19:18:13 494] network    380  redns  def  open.xf-yun.com  
+[2016/10/27 19:18:13 501] waiter     196  last gc at  1477621091  
+[2016/10/27 19:18:13 509] network    173  dns resp  10214  
+[2016/10/27 19:18:13 511] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/27 19:18:13 875] network    380  redns  def  open.xf-yun.com  
+[2016/10/27 19:18:13 884] waiter     196  last gc at  1477621091  
+[2016/10/27 19:18:13 890] network    173  dns resp  10214  
+[2016/10/27 19:18:13 892] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/27 19:18:14 261] network    380  redns  def  open.xf-yun.com  
+[2016/10/27 19:18:14 270] waiter     196  last gc at  1477621091  
+[2016/10/27 19:18:14 276] network    173  dns resp  10214  
+[2016/10/27 19:18:14 278] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/27 19:18:14 661] network    380  redns  def  open.xf-yun.com  
+[2016/10/27 19:18:14 671] waiter     196  last gc at  1477621091  
+[2016/10/27 19:18:14 676] network    173  dns resp  10214  
+[2016/10/27 19:18:14 678] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/27 19:18:15 074] network    380  redns  def  open.xf-yun.com  
+[2016/10/27 19:18:15 083] waiter     196  last gc at  1477621091  
+[2016/10/27 19:18:15 089] network    173  dns resp  10214  
+[2016/10/27 19:18:15 091] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/27 19:18:15 452] network    380  redns  def  open.xf-yun.com  
+[2016/10/27 19:18:15 461] waiter     196  last gc at  1477621091  
+[2016/10/27 19:18:15 467] network    173  dns resp  10214  
+[2016/10/27 19:18:15 469] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/27 19:18:15 848] network    380  redns  def  open.xf-yun.com  
+[2016/10/27 19:18:15 858] waiter     196  last gc at  1477621091  
+[2016/10/27 19:18:15 863] network    173  dns resp  10214  
+[2016/10/27 19:18:15 865] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/27 19:18:16 224] network    380  redns  def  open.xf-yun.com  
+[2016/10/27 19:18:16 233] waiter     196  last gc at  1477621091  
+[2016/10/27 19:18:16 239] network    173  dns resp  10214  
+[2016/10/27 19:18:16 241] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/27 19:18:16 589] network    380  redns  def  open.xf-yun.com  
+[2016/10/27 19:18:16 599] waiter     196  last gc at  1477621091  
+[2016/10/27 19:18:16 604] network    173  dns resp  10214  
+[2016/10/27 19:18:16 606] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/27 19:18:16 973] network    380  redns  def  open.xf-yun.com  
+[2016/10/27 19:18:16 982] waiter     196  last gc at  1477621091  
+[2016/10/27 19:18:16 988] network    173  dns resp  10214  
+[2016/10/27 19:18:16 990] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/27 19:18:17 359] network    380  redns  def  open.xf-yun.com  
+[2016/10/27 19:18:17 372] waiter     196  last gc at  1477621091  
+[2016/10/27 19:18:17 378] network    173  dns resp  10214  
+[2016/10/27 19:18:17 380] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/27 19:18:22 388] network    380  redns  def  open.xf-yun.com  
+[2016/10/27 19:18:22 413] waiter     196  last gc at  1477621091  
+[2016/10/27 19:18:22 429] network    173  dns resp  10214  
+[2016/10/27 19:18:22 432] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/27 19:20:53 370] waiter     183  start upload timer  
+[2016/10/27 19:20:53 378] waiter     184  true  
+[2016/10/27 19:21:03 031] waiter     183  start upload timer  
+[2016/10/27 19:21:03 037] waiter     184  true  
+[2016/10/27 19:21:18 236] waiter     183  start upload timer  
+[2016/10/27 19:21:18 243] waiter     184  true  
+[2016/10/27 19:25:02 393] waiter     183  start upload timer  
+[2016/10/27 19:25:02 395] waiter     184  true  
+[2016/10/27 19:25:19 556] waiter     183  start upload timer  
+[2016/10/27 19:25:19 563] waiter     184  true  
+[2016/10/27 19:25:28 683] waiter     183  start upload timer  
+[2016/10/27 19:25:28 691] waiter     184  true  
+[2016/10/27 19:26:00 358] waiter     183  start upload timer  
+[2016/10/27 19:26:00 360] waiter     184  true  
+[2016/10/27 19:28:29 090] waiter     183  start upload timer  
+[2016/10/27 19:28:29 092] waiter     184  true  
+[2016/10/27 19:28:54 918] waiter     183  start upload timer  
+[2016/10/27 19:28:54 919] waiter     184  true  
+[2016/10/27 19:29:14 078] waiter     183  start upload timer  
+[2016/10/27 19:29:14 080] waiter     184  true  
+[2016/10/27 19:29:49 186] waiter     183  start upload timer  
+[2016/10/27 19:29:49 188] waiter     184  true  

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="UTF-8">
+    <title>疫情监控</title>
+    <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.js"></script>
+    <script src="{{url_for('static',filename='js/echarts.min.js')}}"></script>
+    <script src="{{url_for('static',filename='js/china.js')}}"></script>
+    <script src="{{url_for('static',filename='js/echarts-wordcloud.min.js')}}"></script>
+
+    <link rel="stylesheet" href="{{url_for('static',filename='css/main.css')}}">
+    <script src="{{url_for('static',filename='js/time_total.js')}}"></script>
+</head>
+<body>
+<div id="title">疫情追踪</div>
+<div id="show_time"></div>
+<div id="left_pic1"></div>
+<script src="{{url_for('static',filename='js/left1.js')}}"></script>
+<div id="left_pic2"></div>
+<script src="{{url_for('static',filename='js/left2.js')}}"></script>
+<div id="center1">
+    <div class="number">
+        <h2></h2>
+    </div>
+    <div class="number">
+        <h2></h2>
+    </div>
+    <div class="number">
+        <h2></h2>
+    </div>
+    <div class="number">
+        <h2></h2>
+    </div>
+    <div class="text">
+        <h2>累计确诊</h2>
+    </div>
+    <div class="text">
+        <h2>剩余疑似</h2>
+    </div>
+    <div class="text">
+        <h2>累计治愈</h2>
+    </div>
+    <div class="text">
+        <h2>累计死亡</h2>
+    </div>
+</div>
+<div id="center2"></div>
+<script src="{{url_for('static',filename='js/center_china.js')}}"></script>
+<div id="right1"></div>
+<script src="{{url_for('static',filename='js/right1.js')}}"></script>
+<div id="right2"></div>
+<script src="{{url_for('static',filename='js/right2.js')}}"></script>
+</body>
+</html>
